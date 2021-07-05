@@ -64,4 +64,4 @@ plugins:
   - jekyll-email-protect
   - jekyll-target-blank
 
-remote_theme: 'test'
+remote_theme: test
