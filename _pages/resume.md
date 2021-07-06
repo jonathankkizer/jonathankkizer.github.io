@@ -5,4 +5,4 @@ permalink: /resume/
 published: true
 ---
 
-My resume is available here.
+My resume is available [here](https://viewscreen.githubusercontent.com/view/pdf?color_mode=dark&commit=03e26a17f33a4047de281fc3339262167a3a6a6b&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6a6f6e617468616e6b6b697a65722f6a6f6e617468616e6b6b697a65722e6769746875622e696f2f303365323661313766333361343034376465323831666333333339323632313637613361366136622f6173736574732f726573756d652f726573756d652e706466&nwo=jonathankkizer%2Fjonathankkizer.github.io&path=assets%2Fresume%2Fresume.pdf&repository_id=383285478&repository_type=Repository#48ee77bd-99ff-4f15-8fc8-c07c625808c9).
