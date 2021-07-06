@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jonathan Kizer
+description: Sic Parvis Magna
 
 baseurl: "" #name of GitHub repository
 url: "https://jonathankkizer.github.io" #custom url to be used instead of GitHub repository
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "https://www.linkedin.com/in/jonathan-kizer/"
+github: "https://github.com/jonathankkizer"
 researchgate: "#"
 orcid: "#"
 
