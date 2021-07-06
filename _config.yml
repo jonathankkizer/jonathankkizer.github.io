@@ -12,7 +12,7 @@ highlighter: rouge
 markdown: kramdown
 
 # Pagination
-paginate: 4
+paginate: 8
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
