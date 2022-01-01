@@ -15,4 +15,4 @@ I enjoy working with Python and SQL at all levels of the data stack. I enjoy bot
 
 In my free time, I love being out in the beautiful Rocky Mountains of Colorado. You can find me on my motorcycle, hiking, or jogging. I have a personal interest in iOS development, climatology data, and Formula 1.
 
-I am currently pursuing a (Master of Science in Analytics degree from Georgia Tech)[https://www.analytics.gatech.edu], and expecting to graduate in May 2023.
+I am currently pursuing a [Master of Science in Analytics degree from Georgia Tech](https://www.analytics.gatech.edu), and expecting to graduate in May 2023.
